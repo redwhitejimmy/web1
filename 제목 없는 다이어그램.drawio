@@ -23,10 +23,10 @@
         <mxCell id="pHzVpv6FtB60aotZtpqx-3" value="Carrier 고정&lt;div&gt;(Rail down)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="30" y="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pHzVpv6FtB60aotZtpqx-4" value="product position check&lt;div&gt;(Using top vision)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="pHzVpv6FtB60aotZtpqx-4" value="product position check&lt;div&gt;(Using top vision)&lt;/div&gt;&lt;div&gt;*Position: X, Y&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="30" y="230" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pHzVpv6FtB60aotZtpqx-5" value="laser measurement" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="pHzVpv6FtB60aotZtpqx-5" value="Lens height check&lt;div&gt;(Using laser probe)&lt;/div&gt;&lt;div&gt;*Position: Z&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="30" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pHzVpv6FtB60aotZtpqx-6" value="Dispensing &amp;amp; UV Curing&lt;div&gt;(PDI Option)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
